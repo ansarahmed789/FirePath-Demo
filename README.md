@@ -4,6 +4,12 @@ A clickable prototype of FirePath, a wildfire map app for Saskatchewan. Open the
 
 **Live demo:** https://ansarahmed789.github.io/FirePath-Demo/
 
+<p align="center">
+  <img src="qr-code.png" alt="QR code that opens the FirePath demo" width="240">
+  <br>
+  <em>Scan with your phone's camera to open the demo.</em>
+</p>
+
 - Tap anywhere on the map to see how a fire could spread over 1, 2 and 4 hours.
 - Try the What-If tab (wind speed, temperature, dryness, and a compass for wind direction).
 - Create an account to save places and see alerts. Accounts stay in your own browser.
