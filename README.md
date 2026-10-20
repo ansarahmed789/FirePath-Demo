@@ -8,4 +8,4 @@
   <em>Scan with your phone's camera to open the demo.</em>
 </p>
 
-**This is a student prototype.** All fire, weather, danger and alert numbers are sample data, not real conditions. For official information see [SaskAlert](https://www.saskalert.ca) and the [SPSA](https://www.saskpublicsafety.ca).
+All fire, weather, danger and alert numbers are sample data, not real conditions. For official information see [SaskAlert](https://www.saskalert.ca) and the [SPSA](https://www.saskpublicsafety.ca).
