@@ -1,0 +1,21 @@
+# Keep local, editor and assistant files out of this public repo.
+# NOTE: .nojekyll is NOT listed on purpose. GitHub Pages needs it to serve the _expo folder.
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Assistant tooling
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.claudeignore
+
+# Secrets and local config
+.env
+.env.*
+
+# Node
+node_modules/
+*.log
